@@ -1,9 +1,15 @@
 # ProfVotes
 A Java based Web Application for Voting System
+
 3 Roles for user- Voter, Admin, Authority
-#Voter
+
+Voter
 Can Vote only.
-#Admin
+
+Admin
 Can Vote and manage voters also.
-#Authority
+
+Authority
 Can Vote, manage voters and can manage admins too.
+
+Used MVC Structure and mysql database from phpmyadmin
