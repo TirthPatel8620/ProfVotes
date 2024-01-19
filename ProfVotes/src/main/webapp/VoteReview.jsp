@@ -7,6 +7,5 @@
 <title>VoteReview</title>
 </head>
 <body>
-
 </body>
 </html>
